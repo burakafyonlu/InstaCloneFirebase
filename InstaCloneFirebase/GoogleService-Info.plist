@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>to choose photo</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>to choose photo</string>
+	<key>CLIENT_ID</key>
+	<string>759724845966-ae62g6avq31hpibo9t9ktptgp2eh1sgr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.759724845966-ae62g6avq31hpibo9t9ktptgp2eh1sgr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBA3qJbTUeoYpbwQuuOadKnnKwa6fYRdf4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>759724845966</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ihsanburakafyonlu.InstaCloneFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>instaclonefirebase-7d896</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instaclonefirebase-7d896.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:759724845966:ios:5c88e47905658c239492df</string>
+</dict>
+</plist>
